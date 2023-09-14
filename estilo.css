@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background-color: green;
+}
+
+.nav-link{
+color: rgb(250, 250, 249) !important;
+}
+.nav-item:hover{
+    background-color: rgb(27, 179, 27);
+}
+
+.collapse{
+    display: flex;
+    justify-content: center;
+}
+.Jumbotron{
+    background-image: url(multimedia/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    background-color: rgba(34, 139, 34, 0.574);
+}
+h2{
+   font-size: 50PX ;
+    text-align: center;
+    color: black;
+    padding: 5px;}
+    .nleft{
+        background-color: aqua;
+    }
+    .feat {
+        background-color: rgb(255, 255, 255);
+        border: solid 5px green;
+        text-align: center;
+    }
+    .testo{
+        background-color: rgba(0, 0, 0, 0.381);
+        background-size: cover;
+        background-position: center;
+        height: 150px;
+        width: 300px;
+    border: 3px solid green ;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+    text-align: center;
+    }
+    h1{
+        height: 50px;
+        background-color: rgba(255, 255, 255, 0.761);
+        color: black;
+        
+    }
+    
+    
+    hr{
+        font-size: 10px;
+        color: rgb(2, 2, 2);
+        height: 10px;
+        width: 80%;
+        margin-left: 10%;
+        }
+        section{
+            height: 200px;
+            width: 100%;
+            background-color: rgb(17, 15, 15);
+        
+        }
+        article{
+            background-color: white;
+            height: 400px;
+            
+        }
+        .card{
+            margin: 10px;
+            width: 300px;
+            border: 5px solid #176736;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow:2px 2px 3px #176736;
+            
+        }
+        .card-img{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/pan\ integral.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img2{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/pizzetas.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .img3{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/pastel.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img4{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/mani.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .container-fluid{
+            display: flex;
+            justify-content: center;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+        }
+        .img5{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/pan-de-trigo-sarraceno-2-de-2_01.webp);
+            background-size: cover;
+            background-position: center;
+        }
+        .img6{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/vinagremanzana.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img7{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/empanadas-carne.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img8{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/leche-coco.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img9{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/platos-diversos.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img10{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/tarta-apio.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img11{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/empanadas-carne.jpeg);
+            background-size: cover;
+            background-position: center;
+        }
+        .img12{
+            height: 200px;
+            width: 100%;
+            background-image: url(multimedia/yogur\ Griego.jpg);
+            background-size: cover;
+            background-position: center;
+        }
+        .row{
+            display: flex;
+            justify-content: center;
+            justify-content: space-evenly;
+            flex-wrap: wrap;}
+        
